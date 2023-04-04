@@ -1,6 +1,8 @@
-# Three Webpack Boilerplate
+# Color Ramp Starter
+## https://youtu.be/Ydu4epKEM3I
+[![Smooth Gradient With Three.js Shaders](https://user-images.githubusercontent.com/64514807/229800777-730c6d03-dc44-4308-9a76-d1cd39559725.png)](https://youtu.be/Ydu4epKEM3I)
 
-Three webpack 5 boilerplate using Babel, PostCSS, Sass and Gsap.
+These are the starter files for my smooth gradient with three.js shaders video.
 
 ## Installation
 
